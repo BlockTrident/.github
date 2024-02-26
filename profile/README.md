@@ -12,3 +12,5 @@
 -->
 
 We are **BlockTrident**. Our team primarily focuses on academic challenges related to blockchain networks, providing the industrial sector with state-of-the-art solutions for blockchain networks.
+
+# Our Team Members 🧙
