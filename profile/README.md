@@ -16,4 +16,4 @@ We are **BlockTrident**. Our team primarily focuses on academic challenges relat
 # Our Team Members 🧙
 - lyciumlee. [https://github.com/lyciumlee](https://github.com/lyciumlee)
 - nirenzang. [https://github.com/nirenzang](https://github.com/nirenzang)
-- gongxiaorui. A Computer Security Researcher.
+
