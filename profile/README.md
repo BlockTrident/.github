@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We are ** BlockTrident **. Our team primarily focuses on academic issues related to blockchain networks, providing the industrial sector with state-of-the-art solutions for blockchain networks.
+We are **BlockTrident**. Our team primarily focuses on academic issues related to blockchain networks, providing the industrial sector with state-of-the-art solutions for blockchain networks.
