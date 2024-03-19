@@ -16,4 +16,5 @@ We are **BlockTrident**. Our team primarily focuses on academic challenges relat
 # Our Team Members 🧙
 - lyciumlee. [https://github.com/lyciumlee](https://github.com/lyciumlee)
 - nirenzang. [https://github.com/nirenzang](https://github.com/nirenzang)
+- Prof.Gong. The NeSE Team Supervisior. A Full Professor of UCAS.
 
